@@ -3,7 +3,7 @@
 $port = $argv[1] ? intVal($argv[1]) : 8080;
 $sockets = array();
 $sockets[] = $serverSocket = @socket_create_listen($port);
-echo "Server listening to port:{$port}\r\n";
+echo "Server listening at port:{$port}\r\n";
 if(socket_last_error()) {
 	echo "socket_create() failed: reason: " . socket_strerror(socket_last_error()) . "\n";
 	exit;

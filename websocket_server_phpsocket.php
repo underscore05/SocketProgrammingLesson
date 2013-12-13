@@ -3,7 +3,7 @@
 $port = intVal($argv[1] ? $argv[1] : 8080);
 $sockets = array();
 $sockets[] = $serverSocket = socket_create_listen($port);
-echo "Server Listening to port:{$port}";
+echo "Server listening at port:{$port}\r\n";
 while(true) {
 	$socketsToRead = $sockets;
 	if(socket_select($socketsToRead, $write=null, $exception=null, 0) > 0 ) {

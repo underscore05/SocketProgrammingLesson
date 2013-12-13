@@ -15,7 +15,7 @@ public class ClientRunner {
 
 	public static void main(String[] args) {
 		String host = "localhost";
-		int port = 9000;
+		int port = 8080;
 				
 		try {
 			JFrame jf = new JFrame();
