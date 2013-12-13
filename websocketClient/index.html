@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>Example WebSocket Client</title>
+	<link rel="stylesheet" href="css/bootstrap.min.css">
+</head>
+<body>
+	<div class="container" style="margin-top:20px">
+		<div class="panel panel-primary">
+			<div class="panel-heading">Messages</div>
+			<div id="messageContainer" class="panel-body" style="max-height:150px;min-height:100px; overflow-y:scroll;">
+				<div id="messages" class="list-group" ></div>			
+			</div>
+			
+		</div>
+		<div><input type="text" id="message" class="col-xs-12"/></div>
+	</div>
+	
+	<script src="js/mootools-core-1.4.5.min.js"></script>
+	<script src="js/mootools-more-1.4.0.1.min.js"></script>
+	<script>
+		window.addEvent('domready', function(){
+			var message = $('message');
+			var messages = $('messages');
+			var msgScroll = new Fx.Scroll($('messageContainer'));
+			
+			var ws = new WebSocket("ws://localhost:8080");
+			ws.onmessage = function(msg) {
+				var div = new Element('div.list-group-item');
+				div.adopt(new Element('a', {'text':msg.data}));
+				messages.adopt(div);
+				msgScroll.toBottom();
+			}
+			window.onbeforeunload = function(){  
+				ws.close();
+			}
+
+			message.addEvent('change', function() {
+				ws.send(this.value);
+				this.value = "";
+			})
+		});
+	</script>
+</body>
+</html>

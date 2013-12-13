@@ -1,0 +1,19 @@
+.spinner {
+	position: absolute;
+	opacity: 0.8;
+	filter: alpha(opacity=80);
+	-ms-filter: progid:DXImageTransform.Microsoft.Alpha(Opacity=80);
+	z-index: 999;
+	background: #fefefe;
+}
+.spinner-msg {
+	text-align: center;
+	font-weight: bold;
+}
+.spinner-img {
+	background: url(../img/spinner.gif) no-repeat;
+	background-color:none;
+	width: 24px;
+	height: 24px;
+	margin: 0 auto;
+}
