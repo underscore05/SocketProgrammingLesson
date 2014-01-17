@@ -2,7 +2,9 @@
 
 $port = $argv[1] ? intVal($argv[1]) : 8080;
 $sockets = array();
+
 $sockets[] = $serverSocket = @socket_create_listen($port);
+
 echo "Server listening at port:{$port}\r\n";
 if(socket_last_error()) {
 	echo "socket_create() failed: reason: " . socket_strerror(socket_last_error()) . "\n";
@@ -12,12 +14,11 @@ if(socket_last_error()) {
 while(true) {
 	$socketsToRead = $sockets;
 	$readCount = socket_select($socketsToRead, $write=null, $except=null, 0);	
-
 	if($readCount > 0) {
 		foreach($socketsToRead as $socket) {
 			if(in_array($serverSocket, $socketsToRead)) {
-				$sockets[] = $newClientSocket = socket_accept($socket);
-				$key = array_search($socket, $socketsToRead);
+				$sockets[] = $newClientSocket = socket_accept($serverSocket);
+				$key = array_search($serverSocket, $socketsToRead);
 				unset($socketsToRead[$key]);
 				socket_write($newClientSocket, chr(0));
 			} else {
