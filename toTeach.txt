@@ -1,0 +1,65 @@
+Conventional Concept of Server Application (Java)
+
+	//Create a Socket and bind it in specific port.
+		socket = new ServerSocket(9000);
+	//Listen for incoming connection
+		socket.listen()
+		
+	//Accept incoming connection (blocking process) and create a new socket for it.
+		clientSocket = socket.accept()
+	
+	//Create a separate thread for simultaneous reading of data from this socket.
+		new Thread() {
+			public void run() {
+				String data = null;
+				while((data=reader.readLine())!=null) {
+					//Do something with the data
+				}
+			}
+		}.start()
+	
+	//Create a separate thread for simultaneous asking of data from the user and sending it to the socket.
+		new Thread() {
+			public void run() {
+				while(true) {
+					String msg = JOptionPane.showInputDialog(null, "Enter your Message");
+					writer.println(msg);
+				}
+			}
+		}.start()
+	
+
+Conventional Concept of Client Application (Java)
+
+	//Create a socket and connect it to a host and port
+	socket = new Socket(""localhost", 9001);
+	//Create a separate thread for simultaneous reading of data from this socket.
+		new Thread() {
+			public void run() {
+				String data = null;
+				while((data=reader.readLine())!=null) {
+					//Do something with the data
+				}
+			}
+		}.start()
+	//Create a separate thread for simultaneous asking of data from the user and sending it to the socket.
+		new Thread() {
+			public void run() {
+				while(true) {
+					String msg = JOptionPane.showInputDialog(null, "Enter your Message");
+					writer.println(msg);
+				}
+			}
+		}.start()
+	
+	
+	
+
+
+//Difference between Server socket and a client socket
+ServerSocket - is the socket that accepts connection and create a pair socket for the incoming connection
+ClientSocket - is the one that connects to a server socket and usually partnered by another client socket created by the server socket
+
+
+
+	

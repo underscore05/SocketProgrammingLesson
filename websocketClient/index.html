@@ -6,15 +6,15 @@
 	<link rel="stylesheet" href="css/bootstrap.min.css">
 </head>
 <body>
-	<div class="container" style="margin-top:20px">
+	<div class="container" style="margin-top:20px">		
 		<div class="panel panel-primary">
 			<div class="panel-heading">Messages</div>
-			<div id="messageContainer" class="panel-body" style="max-height:150px;min-height:100px; overflow-y:scroll;">
-				<div id="messages" class="list-group" ></div>			
-			</div>
+			<!--<div id="messageContainer" class="panel-body">-->
+				<div id="messages" class="list-group"  style="max-height:150px;min-height:100px; overflow-y:scroll;"></div>			
+			<!--</div>-->
 			
 		</div>
-		<div><input type="text" id="message" class="col-xs-12"/></div>
+		<div><input type="text" id="message" class="col-xs-12 form-control"/></div>
 	</div>
 	
 	<script src="js/mootools-core-1.4.5.min.js"></script>
@@ -23,7 +23,7 @@
 		window.addEvent('domready', function(){
 			var message = $('message');
 			var messages = $('messages');
-			var msgScroll = new Fx.Scroll($('messageContainer'));
+			var msgScroll = new Fx.Scroll(messages);
 			
 			var ws = new WebSocket("ws://localhost:8080");
 			ws.onmessage = function(msg) {

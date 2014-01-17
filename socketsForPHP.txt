@@ -1,0 +1,41 @@
+Conventional way of Server Application (PHP)
+
+//Create a container for a collection of socket
+sockets = array()
+
+//Create a socket
+//Bind it in a specific port and add the newly created server socket in the collection variabl
+sockets[] = serverSocket = socket_create_listen(9001);
+
+
+//create a copy of sockets collection
+_sockets = sockets
+
+//Monitor collection of sockets for changes (this includes the server socket)
+//Socket_select accepts an array of sockets which is passed by reference that's why 
+//we created a copy of sockets collection to avoid modifying it 
+
+$socket_count = @socket_select(_sockets, $write = null, $except = null, 0);
+
+//check for socket_count then go in the next poll if socket_count < 1
+//serverSocket is in _sockets then accept connection
+
+
+$socket_count = @socket_select($_sockets, $write = null, $except = null, 0);
+if(in_array($serverSocket, $_sockets)) {
+	$sockets[] = $clientSocket = socket_accept($serverSocket);
+	$key = array_search($serverSocket, $_sockets);
+	unset($_sockets[$key]);
+}
+
+foreach($_sockets as $socket) {
+	//read socket
+	$data = socket_read($socket, $size, PHP_NORMAL_READ);
+	if($data==false) 
+		//disconnected, then delete it from sockets array
+	else
+		if(trim(data)!="")
+			//print new data
+			
+	
+}
