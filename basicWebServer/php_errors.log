@@ -1,0 +1,903 @@
+[08-Jan-2014 09:28:56] PHP Warning:  socket_create_listen() expects at least 1 parameter, 0 given in C:\Users\Richard Roque\www\basicWebServer\server.php on line 4
+[08-Jan-2014 09:28:56] PHP Stack trace:
+[08-Jan-2014 09:28:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:52] PHP Stack trace:
+[08-Jan-2014 09:34:52] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:52] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:52] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:53] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:53] PHP Stack trace:
+[08-Jan-2014 09:34:53] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:53] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:54] PHP Stack trace:
+[08-Jan-2014 09:34:54] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:54] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:54] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:55] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:55] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:55] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:55] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:56] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:56] PHP Stack trace:
+[08-Jan-2014 09:34:56] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:56] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:57] PHP Stack trace:
+[08-Jan-2014 09:34:57] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:57] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:57] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:58] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:58] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:58] PHP Stack trace:
+[08-Jan-2014 09:34:58] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:34:59] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:34:59] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:34:59] PHP Stack trace:
+[08-Jan-2014 09:34:59] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:00] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:00] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:00] PHP Stack trace:
+[08-Jan-2014 09:35:00] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:01] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:01] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:01] PHP Stack trace:
+[08-Jan-2014 09:35:01] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:02] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:02] PHP Stack trace:
+[08-Jan-2014 09:35:02] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:02] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:03] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:03] PHP Stack trace:
+[08-Jan-2014 09:35:03] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:03] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 6 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
+[08-Jan-2014 09:35:04] PHP Warning:  socket_select(): 5 is not a valid Socket resource in C:\Users\Richard Roque\www\basicWebServer\server.php on line 8
+[08-Jan-2014 09:35:04] PHP Stack trace:
+[08-Jan-2014 09:35:04] PHP   1. {main}() C:\Users\Richard Roque\www\basicWebServer\server.php:0
+[08-Jan-2014 09:35:04] PHP   2. socket_select() C:\Users\Richard Roque\www\basicWebServer\server.php:8
